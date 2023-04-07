@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soundboard/static/css/main.e745677d.css",
+    "main.js": "/soundboard/static/js/main.85d83b96.js",
+    "static/js/787.1ed0c42c.chunk.js": "/soundboard/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/soundboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/soundboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/soundboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/soundboard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/soundboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/soundboard/index.html",
+    "main.e745677d.css.map": "/soundboard/static/css/main.e745677d.css.map",
+    "main.85d83b96.js.map": "/soundboard/static/js/main.85d83b96.js.map",
+    "787.1ed0c42c.chunk.js.map": "/soundboard/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e745677d.css",
+    "static/js/main.85d83b96.js"
+  ]
+}
